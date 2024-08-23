@@ -1,0 +1,13 @@
+@media (min-width: 390px) and (max-width: 700px){
+    .container-title{
+        font-size: 18px;
+    }
+    .container-sub-title{
+        font-size: 10px;
+        margin-top: 50px;
+    }
+    .container-rodape{
+        font-size: 8px;
+        margin-top: 50px;
+    }
+}
